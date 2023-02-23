@@ -1,0 +1,9 @@
+name: comp30830
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - pandas
+  - numpy
+prefix: /Users/weetomlee/opt/anaconda3/envs/comp30830
